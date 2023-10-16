@@ -1,7 +1,5 @@
 # Caitlin Senior
-# Python Smart Home coursework - backend
-# up2113762
-
+# Python Smart Home - backend
 
 class SmartPlug:
     """The settings and functions for the smart plug device"""
