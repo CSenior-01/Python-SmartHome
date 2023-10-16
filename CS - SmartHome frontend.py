@@ -1,6 +1,5 @@
 # Caitlin Senior
-# up2113762
-# Python Smart Home coursework - frontend
+# Python Smart Home - frontend
 
 from backend import *
 from tkinter import *
